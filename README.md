@@ -12,7 +12,7 @@
 </table>
 
 
-Asgari E., Münch P.C., Lesker T.R., McHardy A.C.&#9733; and Mofrad M.R.K.&#9733;, Nucleotide-pair encoding of 16S rRNA sequences for host phenotype and biomarker detection. bioRxiv, 2018. Available at: ======
+Asgari E., Münch P.C., Lesker T.R., McHardy A.C.&#9733; and Mofrad M.R.K.&#9733;, Nucleotide-pair encoding of 16S rRNA sequences for host phenotype and biomarker detection. bioRxiv, 2018. Available at: bioRxiv 334722; doi: https://doi.org/10.1101/334722 
 
 
  
@@ -52,14 +52,14 @@ pip install -r requirements.txt
 Please cite the <a style="color: #800000;" href="https://www.biorxiv.org/content/early/2018/01/31/255018">bioarXiv</a> version  <a href="https://www.biorxiv.org/highwire/citation/78275/bibtext"><img class="alignnone wp-image-142" src="http://llp.berkeley.edu/wp-content/uploads/2018/01/bibtex-icon.png" alt="" width="44" height="44" /></a> <a href="https://www.biorxiv.org/highwire/citation/78275/mendeley"><img class="alignnone wp-image-143" src="http://llp.berkeley.edu/wp-content/uploads/2018/01/Apps-Mendeley-icon-150x150.png" alt="" width="47" height="41" /></a>
 
 ```
-@article {Asgari255018,
-	author = {Asgari, Ehsaneddin and Muench, Philipp C. and Lesker T.R and McHardy A.C. and Mofrad, Mohammad R.K.},
+@article {Asgari334722,
+	author = {Asgari, Ehsaneddin and M{\"u}nch, Philipp C. and Lesker, Till R. and McHardy, Alice Carolyn and Mofrad, Mohammad R.K.},
 	title = {Nucleotide-pair encoding of 16S rRNA sequences for host phenotype and biomarker detection},
 	year = {2018},
-	doi = {----},
+	doi = {10.1101/334722},
 	publisher = {Cold Spring Harbor Laboratory},
-	URL = {https://www.biorxiv.org/content/---},
-	eprint = {https://www.biorxiv.org/content/early/----},
+	URL = {https://www.biorxiv.org/content/early/2018/05/30/334722},
+	eprint = {https://www.biorxiv.org/content/early/2018/05/30/334722.full.pdf},
 	journal = {bioRxiv}
 }
 
